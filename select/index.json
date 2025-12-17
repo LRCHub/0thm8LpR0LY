@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アイカツ☆ステップ!",
+  "base_artist": "せな・りえ from AIKATSU☆STARS!",
+  "createdAt": "2025-12-17T20:20:53.897975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイカツ☆ステップ！",
+      "artist": "AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/01_アイカツ☆ステップ!_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイカツ☆ステップ!",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/02_アイカツ☆ステップ!_せな・りえ_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイカツ☆ステップ! ～ゆめ & ローラ & あこ & 真昼 ver.～",
+      "artist": "せな・りえ・みき・かな from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/03_アイカツ☆ステップ!_~ゆめ_&_ローラ_&_あこ_&_真昼_ver.~_せな・りえ・みき・かな_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイカツ☆ステップ！ (Off Vocal)",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/04_アイカツ☆ステップ!_(Off_Vocal)_せな・りえ_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイカツ☆ステップ!",
+      "artist": "せな・りえ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_アイカツ☆ステップ!_せな・りえ_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
